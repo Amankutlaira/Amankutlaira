@@ -4,9 +4,9 @@
 
 ### 🚀 Expertise
 
-- **Frontend Development:** Crafting pixel-perfect, user-centric interfaces using HTML, CSS, and JavaScript. Proficient in modern frameworks like React.js and Vue.js.
+- **Frontend Development:** Crafting pixel-perfect, user-centric interfaces using HTML, CSS, and JavaScript. Proficient in modern frameworks like React.js.
 
-- **Backend Development:** Building robust server-side applications with Node.js, Express.js, and databases like MongoDB and PostgreSQL.
+- **Backend Development:** Building robust server-side applications with Node.js, Express.js, and databases like MongoDB and SQL.
 
 - **Full-Stack Proficiency:** Comfortable working on both frontend and backend, enabling me to create end-to-end solutions.
 
